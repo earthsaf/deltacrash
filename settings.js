@@ -1,7 +1,7 @@
 require("./all/module.js")
 const version = require("@whiskeysockets/baileys/package.json").version
 const { color } = require('./all/function')
-global.owner = "6285381775839"
+global.owner = "2349069464005"
 global.namaowner = "DeltaCrash"
 global.namabot = "delta v5.2" 
 global.botname = "delta"
